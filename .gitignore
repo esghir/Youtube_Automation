@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+client_secret_*.json
+token.json
+gen-lang-client-*.json
+suno_v2.log
+temp_*
+Result/
+output/
+local_files/
+.DS_Store
