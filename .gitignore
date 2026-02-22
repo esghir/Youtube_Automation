@@ -1,6 +1,23 @@
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
 *.pyc
+venv/
 .env
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Project specific
 client_secret_*.json
 token.json
 gen-lang-client-*.json
@@ -9,4 +26,4 @@ temp_*
 Result/
 output/
 local_files/
-.DS_Store
+config.json
